@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BalanceP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePinP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepositP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastPayP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PreviousTransactionP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WithdrawP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

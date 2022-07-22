@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\bin\Debug\net6.0\BasicATM.Core.deps.json
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\bin\Debug\net6.0\BasicATM.Core.dll
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\bin\Debug\net6.0\BasicATM.Core.pdb
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\bin\Debug\net6.0\BasicATM.Model.dll
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\bin\Debug\net6.0\BasicATM.Model.pdb
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.AssemblyInfo.cs
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.csproj.CopyComplete
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.dll
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\refint\BasicATM.Core.dll
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\BasicATM.Core.pdb
+C:\Users\USER\source\repos\BasicATM\BasicATM.Core\obj\Debug\net6.0\ref\BasicATM.Core.dll
